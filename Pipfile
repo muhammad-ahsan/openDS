@@ -5,17 +5,26 @@ name = "pypi"
 
 [packages]
 
+# Notebook
 jupyter = "*"
 IPython = "*"
 
+# Numeric and Data Structures
 numpy = "*"
 pandas = "*"
+
+# Deep Learning
 tensorflow-macos = "*"
 tensorflow-metal = "*"
 
+# Visualisation
 pydot = "*"
 graphviz = "*"
 seaborn = "*"
+
+# Statistics
+networkx = "*"
+pyvis = "*"
 
 [dev-packages]
 
