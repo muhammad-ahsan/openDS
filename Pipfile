@@ -10,8 +10,11 @@ IPython = "*"
 
 numpy = "*"
 pandas = "*"
-tensorflow = "*"
+tensorflow-macos = "*"
+tensorflow-metal = "*"
 
+pydot = "*"
+graphviz = "*"
 seaborn = "*"
 
 [dev-packages]
