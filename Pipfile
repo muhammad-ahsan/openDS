@@ -13,6 +13,9 @@ IPython = "*"
 numpy = "*"
 pandas = "*"
 
+# Machine Learning
+scikit-learn = "1.1.1"
+
 # Deep Learning
 tensorflow-macos = "*"
 tensorflow-metal = "*"
@@ -21,8 +24,10 @@ tensorflow-metal = "*"
 pydot = "*"
 graphviz = "*"
 seaborn = "*"
+matplotlib = "*"
 
 # Statistics
+statsmodels = "*"
 networkx = "*"
 pyvis = "*"
 
